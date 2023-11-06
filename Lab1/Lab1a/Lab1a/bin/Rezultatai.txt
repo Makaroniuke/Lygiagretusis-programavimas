@@ -1,0 +1,32 @@
+﻿Pradiniai duomenys:
+| Nr. | Lėktuvo pavadinimas       |     Kiekis | Kaina      |
+----------------------------------------------------------------------
+| 1   | SCHWEIZER 269C            |         30 | 205193     |
+| 2   | ROBINSON R44 RAVEN II     |         18 | 247685     |
+| 3   | ROBINSON R44 CLIPPER II   |         18 | 242470     |
+| 4   | ROBINSON R44 ASTRO        |         20 | 432220     |
+| 5   | AGUSTA A109E POWER        |         15 | 960490     |
+| 6   | BELL 206L-3               |         19 | 781489     |
+| 7   | BELL 206B III             |         20 | 451778     |
+| 8   | GRUMMAN G164A             |         27 | 96049      |
+| 9   | PIPER PAWNEE              |         23 | 69854      |
+| 10  | CESSNA U206 AMPHIBIAN     |         25 | 366732     |
+| 11  | CESSNA TURBO 206H         |         17 | 301548     |
+| 12  | AMERICAN LEGEND AL3C-100  |         30 | 113425     |
+| 13  | CESSNA A185F FLOATPLANE   |         22 | 175245     |
+| 14  | CESSNA A185F AMPHIBIAN    |         26 | 248767     |
+| 15  | BEECHCRAFT 58 BARON       |         24 | 384196     |
+| 16  | PIPER AEROSTAR            |         29 | 159006     |
+| 17  | BEECHCRAFT B60 DUKE       |          8 | 294568     |
+| 18  | BEECHCRAFT B95            |         14 | 91685      |
+| 19  | PIPER MERIDIAN            |         26 | 825412     |
+| 20  | DAHER KODIAK 100          |         17 | 1728554    |
+| 21  | DEHAVILLAND DHC-1         |         26 | 112000     |
+| 22  | BEECHCRAFT KING AIR 200   |          1 | 865441     |
+| 23  | STAMPE CV4                |         27 | 85000      |
+| 24  | CHANCE VOUGHT F4U         |         18 | 2946584    |
+| 25  | PILATUS PC-12 NG          |         20 | 5052401    |
+
+Rezultatai:
+| Nr. | Lėktuvo pavadinimas       |     Kiekis | Kaina      | Rezultatas |
+----------------------------------------------------------------------
