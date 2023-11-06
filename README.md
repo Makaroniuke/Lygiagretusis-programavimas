@@ -1,0 +1,1 @@
+# Lygiagretusis-programavimas
